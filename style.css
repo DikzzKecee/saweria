@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dukung Dikzz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1 class="animated-title">Dikzz</h1>
+    <p class="animated-subtitle">Terima Kasih Dukungannya 🙏</p>
+
+    <div class="button-group">
+      <a href="https://saweria.co/USERNAME_KAMU" 
+         target="_blank" 
+         class="button green">
+        💜 Dukung Via Saweria
+      </a>
+    </div>
+  </div>
+
+</body>
+</html>
